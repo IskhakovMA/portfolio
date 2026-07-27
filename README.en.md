@@ -142,6 +142,12 @@ In addition to the projects presented above, I work with:
 
 ---
 
+### Links
+
+- [CovePilot public page and application download](https://github.com/IskhakovMA/CovePilot-Download)
+
+> The public repository contains the project description, documentation, screenshots and an installation build. The main source code is stored privately and can be provided to potential employers for technical review.
+
 ## Contacts
 
 - GitHub: [IskhakovMA](https://github.com/IskhakovMA)
